@@ -1,4 +1,4 @@
-For video demonstrations, view this playlist: https://www.youtube.com/playlist?list=PL-Ax3Ih1kaM22OLVF7kyf3GlBNxEySfnc
+For video demonstrations, view [this playlist](https://www.youtube.com/playlist?list=PL-Ax3Ih1kaM22OLVF7kyf3GlBNxEySfnc).
 
 To start building your own floppy drive MIDI instrument, view https://github.com/SammyIAm/Moppy2
 
